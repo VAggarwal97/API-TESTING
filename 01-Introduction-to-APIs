@@ -1,0 +1,386 @@
+01-Introduction-to-APIs/
+│
+├── README.md              ← Module overview
+├── 01-What-is-an-API.md
+├── 02-History-of-APIs.md
+├── 03-API-Evolution.md
+├── 04-Why-APIs.md
+├── 05-How-APIs-Work.md
+├── 06-Client-Server-Architecture.md
+├── 07-API-Lifecycle.md
+├── 08-Request-Response-Lifecycle.md
+├── 09-Types-of-APIs.md
+├── 10-API-vs-Web-Services.md
+├── 11-Common-Terminology.md
+├── 12-Real-World-Examples.md
+├── 13-Benefits-and-Challenges.md
+├── 14-Interview-Questions.md
+├── 15-Exercises.md
+└── Assets/
+
+# Introduction to APIs
+
+> **Module 1** of the **API Testing Handbook**
+>
+> Build a strong foundation by understanding what APIs are, how they work, why they exist, and why API Testing has become one of the most important skills in modern software development.
+
+---
+
+## Welcome
+
+Welcome to the **Introduction to APIs** module.
+
+Before learning how to test APIs using tools like **Postman**, **SoapUI**, or **Rest Assured**, it's essential to understand what an API is, how applications communicate with each other, and the role APIs play in modern software systems.
+
+This module starts from the absolute basics and gradually progresses toward real-world API concepts used by companies such as Google, Amazon, Microsoft, Netflix, PayPal, Facebook, and thousands of other organizations.
+
+Whether you are a beginner or an experienced QA engineer looking to strengthen your fundamentals, this module will provide a solid understanding of API architecture, communication, request-response models, and the terminology used throughout the software industry.
+
+---
+
+# Learning Objectives
+
+After completing this module, you will be able to:
+
+- Understand what an API is
+- Explain why APIs are important
+- Understand how software systems communicate
+- Differentiate between APIs and Web Services
+- Understand Client-Server Architecture
+- Understand Request and Response communication
+- Explain the API Lifecycle
+- Identify different API types
+- Understand API communication models
+- Learn common API terminology
+- Understand where API Testing fits into SDLC and STLC
+- Read API documentation confidently
+- Prepare for advanced API Testing topics
+
+---
+
+# Prerequisites
+
+This module does **not** require any prior knowledge of API Testing.
+
+Recommended knowledge:
+
+- Basic computer skills
+- Basic understanding of websites
+- Curiosity to learn software testing
+
+No programming experience is required.
+
+---
+
+# Why Learn APIs?
+
+Modern software applications rarely work in isolation.
+
+Whenever you:
+
+- Log into an application
+- Book a flight
+- Order food online
+- Make a payment
+- Watch a movie
+- Use Google Maps
+- Check your bank balance
+- Send a WhatsApp message
+
+multiple APIs work together behind the scenes.
+
+Understanding APIs enables testers and developers to verify these interactions accurately and efficiently.
+
+---
+
+# Why API Testing Matters
+
+API Testing is one of the most valuable testing skills in the software industry.
+
+Unlike UI testing, API Testing validates the application's business logic directly, making it faster, more reliable, and less affected by user interface changes.
+
+Organizations increasingly rely on API Testing because it helps identify defects early, improves software quality, and supports continuous integration and continuous delivery (CI/CD) pipelines.
+
+---
+
+# What You'll Learn in This Module
+
+This module covers everything you need to build a strong understanding of APIs.
+
+## Core Concepts
+
+- What is an API?
+- Why APIs exist
+- API Evolution
+- API History
+- API Lifecycle
+- API Communication
+
+---
+
+## Architecture
+
+- Client-Server Architecture
+- Request-Response Model
+- Stateless Communication
+- API Gateway
+- Service-Oriented Architecture
+- Microservices Overview
+
+---
+
+## API Types
+
+- Public APIs
+- Private APIs
+- Internal APIs
+- Partner APIs
+- Open APIs
+- Composite APIs
+
+---
+
+## Communication
+
+- HTTP Basics
+- HTTPS
+- Endpoints
+- Requests
+- Responses
+- Headers
+- Payloads
+
+---
+
+## Web Services
+
+- What are Web Services?
+- SOAP
+- REST
+- XML
+- JSON
+- WSDL
+
+---
+
+## Terminology
+
+Understand commonly used API terms including:
+
+- Endpoint
+- Resource
+- URI
+- URL
+- Client
+- Server
+- Payload
+- Request Body
+- Response Body
+- Authentication
+- Authorization
+- Status Code
+- Header
+- Cookie
+- Session
+
+---
+
+## Real-World Examples
+
+Learn how APIs power popular platforms including:
+
+- E-Commerce Applications
+- Banking Systems
+- Social Media Platforms
+- Food Delivery Applications
+- Ride Booking Platforms
+- Streaming Services
+- Healthcare Systems
+- Cloud Services
+
+---
+
+## Industry Best Practices
+
+- API Design Basics
+- Naming Conventions
+- Documentation Standards
+- Versioning
+- Error Handling
+- Security Awareness
+
+---
+
+# Module Structure
+
+```
+01-Introduction-to-APIs
+│
+├── README.md
+├── 01-What-is-an-API.md
+├── 02-History-of-APIs.md
+├── 03-API-Evolution.md
+├── 04-Why-APIs-Are-Important.md
+├── 05-How-APIs-Work.md
+├── 06-Client-Server-Architecture.md
+├── 07-API-Lifecycle.md
+├── 08-Request-Response-Lifecycle.md
+├── 09-Types-of-APIs.md
+├── 10-API-vs-Web-Services.md
+├── 11-Common-API-Terminology.md
+├── 12-Real-World-Examples.md
+├── 13-Benefits-and-Challenges.md
+├── 14-Interview-Questions.md
+├── 15-Exercises.md
+└── Assets
+```
+
+---
+
+# Learning Path
+
+```
+Introduction to APIs
+        │
+        ▼
+What is an API?
+        │
+        ▼
+History of APIs
+        │
+        ▼
+API Evolution
+        │
+        ▼
+Why APIs Matter
+        │
+        ▼
+How APIs Work
+        │
+        ▼
+Client-Server Architecture
+        │
+        ▼
+Request-Response Lifecycle
+        │
+        ▼
+Types of APIs
+        │
+        ▼
+API vs Web Services
+        │
+        ▼
+Common API Terminology
+        │
+        ▼
+Real-World API Examples
+        │
+        ▼
+Interview Questions
+        │
+        ▼
+Exercises
+```
+
+---
+
+# Skills You Will Gain
+
+After completing this module, you will have a clear understanding of:
+
+- API Fundamentals
+- Web Communication
+- Client-Server Architecture
+- HTTP Basics
+- API Communication Flow
+- API Lifecycle
+- API Categories
+- API Ecosystem
+- Industry Terminology
+- Software Architecture Basics
+- API Testing Foundations
+
+---
+
+# Who Should Study This Module?
+
+This module is ideal for:
+
+- Beginners
+- Students
+- Manual Testers
+- Automation Testers
+- QA Engineers
+- SDETs
+- Backend Developers
+- Frontend Developers
+- Full Stack Developers
+- DevOps Engineers
+- Engineering Students
+- Anyone interested in software testing
+
+---
+
+# Recommended Study Order
+
+For the best learning experience, study each chapter in sequence.
+
+| Step | Chapter |
+|------|---------|
+| 1 | What is an API? |
+| 2 | History of APIs |
+| 3 | API Evolution |
+| 4 | Why APIs Are Important |
+| 5 | How APIs Work |
+| 6 | Client-Server Architecture |
+| 7 | API Lifecycle |
+| 8 | Request-Response Lifecycle |
+| 9 | Types of APIs |
+| 10 | API vs Web Services |
+| 11 | Common API Terminology |
+| 12 | Real-World Examples |
+| 13 | Benefits and Challenges |
+| 14 | Interview Questions |
+| 15 | Hands-on Exercises |
+
+---
+
+# Estimated Completion Time
+
+| Activity | Duration |
+|----------|----------|
+| Reading | 4–5 Hours |
+| Practical Understanding | 2 Hours |
+| Exercises | 2 Hours |
+| Revision | 1 Hour |
+
+**Estimated Total:** **8–10 Hours**
+
+---
+
+# What's Next?
+
+After completing this module, continue to **Module 2 – Web Services**, where you'll explore:
+
+- What are Web Services?
+- SOAP Architecture
+- REST Architecture
+- XML Fundamentals
+- WSDL
+- Service Communication
+- SOAP vs REST
+- Real-world Web Service Implementations
+
+This knowledge will prepare you for practical API Testing using Postman, SoapUI, and automation frameworks in the upcoming modules.
+
+---
+
+## Contributing
+
+If you find any errors, have suggestions for improvements, or would like to contribute examples, explanations, or exercises, feel free to submit a pull request or open an issue.
+
+---
+
+## Next Module
+
+➡️ **Module 2: Web Services**
